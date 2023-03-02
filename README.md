@@ -1,4 +1,4 @@
-### Hi there 👋
+### Всем привет 👋 Добро пожаловать на мой профиль ✌️
 
 <!--
 **ivanberdnikov/ivanberdnikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
